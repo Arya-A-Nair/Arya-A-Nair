@@ -1,6 +1,9 @@
 ## Languages:-
+<p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
----
+<img src="https://github.com/Arya-A-Nair/Arya-A-Nair/blob/main/html5_logo.png" height="40" style="vertical-align:down; margin:4px" alt="HTML">
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=gruvbox)
 
 <!--
