@@ -1,8 +1,36 @@
-## Languages:-
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+
+![IMAGE](https://user-images.githubusercontent.com/77779003/144551788-1058beed-e019-4b2a-bcb6-354f9af27153.png)
+
+
+
 <p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/Arya-A-Nair/Arya-A-Nair/blob/main/html5_logo.png" height="40" style="vertical-align:down; margin:4px" alt="HTML">
+<a href="https://wa.me/919920646238?text=Hi+Arya" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href"mailto:aryaajitnair@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/aryarox/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/arya-nair-2003/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+<hr/>
+<p>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
+<hr/>
+
+## Hello there! 
+
+<ul>
+  <li>I am a Self-Taught Programmer</li>
+  <li>I like to work on stuff which genuinely peak my interest</li>
+  <li>Talk endlessly about stuff I find interesting
+  <li>Contact me if you have something interesting to say</li>
+</ul>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=gruvbox)
 
