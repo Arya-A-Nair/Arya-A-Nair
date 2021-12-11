@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 
 
 ![IMAGE](https://user-images.githubusercontent.com/77779003/144551788-1058beed-e019-4b2a-bcb6-354f9af27153.png)
@@ -23,7 +23,7 @@
 </p>
 <hr/>
 
-## Hello there! 
+## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <ul>
   <li>I am a Self-Taught Programmer</li>
