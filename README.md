@@ -30,6 +30,7 @@
   <li>I like to work on stuff that genuinely peaks my interest.</li>
   <li>Talk endlessly about stuff I find interesting
   <li>Contact me if you have something interesting to say</li>
+ <li>I want to learn a lot of new things</li>
 </ul>
 
 
