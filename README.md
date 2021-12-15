@@ -23,10 +23,11 @@
 </p>
 <hr/>
 
-## Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello there! I am <a href="https://arya-a-nair.github.io/Personal-Website/" target="_blank">Arya Nair</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <ul>
   <li>I am a Self-Taught Programmer</li>
+  <li>Check out my <a href="https://arya-a-nair.github.io/Personal-Website/" target="_blank">Personal Website</a></li>
   <li>I like to work on stuff that genuinely peaks my interest.</li>
   <li>Talk endlessly about stuff I find interesting
   <li>Contact me if you have something interesting to say</li>
