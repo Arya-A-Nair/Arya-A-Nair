@@ -23,7 +23,7 @@
 </p>
 <hr/>
 
-## Hello there! I am <a href="https://arya-a-nair.github.io/new-personal-website/" target="_blank">Arya Nair</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello there! I am <a href="https://arya-a-nair.github.io/new-personal-website/" target="_blank">Arya Nair</a>  
 
 <ul>
   <li>I am a Self-Taught Programmer</li>
