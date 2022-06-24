@@ -1,7 +1,7 @@
 
 
+![Red Black Modern Coding Bootcamp Facebook Banner](https://user-images.githubusercontent.com/77779003/175611643-76d2ae25-1484-4897-ba28-db5515153db9.png)
 
-![IMAGE](https://user-images.githubusercontent.com/77779003/144551788-1058beed-e019-4b2a-bcb6-354f9af27153.png)
 
 
 
