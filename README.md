@@ -1,6 +1,5 @@
 
-
-![Red Black Modern Coding Bootcamp Facebook Banner](https://user-images.githubusercontent.com/77779003/175611643-76d2ae25-1484-4897-ba28-db5515153db9.png)
+![Arya Nair](https://user-images.githubusercontent.com/77779003/186958544-2e0120e6-aad0-4977-b15c-e00ce1d01567.png)
 
 
 
