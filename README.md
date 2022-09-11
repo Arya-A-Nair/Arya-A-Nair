@@ -1,5 +1,5 @@
 
-![Arya Nair](https://user-images.githubusercontent.com/77779003/186958544-2e0120e6-aad0-4977-b15c-e00ce1d01567.png)
+![image](https://user-images.githubusercontent.com/77779003/189520826-5f46e564-0f68-4b77-82fc-5a3c912f99d2.png)
 
 
 
@@ -11,6 +11,10 @@
 <a href="https://www.linkedin.com/in/arya-nair-2003/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 <hr/>
+
+
+## Technology I worked with
+
 <p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
@@ -38,9 +42,9 @@
  <li>I want to learn a lot of new things</li>
 </ul>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=gruvbox&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=dark)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arya-A-Nair&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=react&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=react)](https://git.io/streak-stats)
 
 <!--
 **Arya-A-Nair/Arya-A-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
