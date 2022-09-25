@@ -21,6 +21,9 @@
  
 </p>
 
+<hr/>
+
+
 
 ![snake gif](https://github.com/Arya-A-Nair/Arya-A-Nair/blob/output/github-contribution-grid-snake.svg)
 
@@ -48,7 +51,6 @@
 
 </div>
 
-![snake gif](https://github.com/Arya-A-Nair/Arya-A-Nair/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
