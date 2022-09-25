@@ -43,7 +43,7 @@
 </ul>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arya-A-Nair&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div style="display:flex;">
+<div style="display:flex;flex-direction:row">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=react&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=react)](https://git.io/streak-stats)
