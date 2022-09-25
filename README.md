@@ -43,8 +43,12 @@
 </ul>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arya-A-Nair&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display:flex;">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=react&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=react)](https://git.io/streak-stats)
+
+</div>
 
 <!--
 **Arya-A-Nair/Arya-A-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
