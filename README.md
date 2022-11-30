@@ -17,7 +17,7 @@
 
 <p>
  
- ![My Skills](https://skillicons.dev/icons?i=androidstudio,c,cpp,css,django,docker,express,firebase,git,github,heroku,html,js,materialui,mongodb,nodejs,postgres,py,react,redux,ts)
+ ![My Skills](https://skillicons.dev/icons?i=androidstudio,c,cpp,css,django,docker,express,firebase,git,github,heroku,html,js,materialui,mongodb,nodejs,postgres,py,react,redux,ts,flask)
  
 </p>
 
