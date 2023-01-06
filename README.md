@@ -21,16 +21,6 @@
  
 </p>
 
-<hr/>
-
-
-
-![snake gif](https://github.com/Arya-A-Nair/Arya-A-Nair/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-<hr/>
 
 ## Hello there! I am <a href="https://arya-a-nair.github.io/new-personal-website/" target="_blank">Arya Nair</a>  
 
@@ -42,8 +32,6 @@
   <li>Contact me if you have something interesting to say</li>
  <li>I want to learn a lot of new things</li>
 </ul>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arya-A-Nair&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div style="display:flex;flex-direction:row">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=react&count_private=true)
