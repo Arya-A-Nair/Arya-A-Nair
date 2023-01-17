@@ -34,7 +34,6 @@
 </ul>
 <div style="display:flex;flex-direction:row">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-A-Nair&show_icons=true&theme=react&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=react)](https://git.io/streak-stats)
 
 </div>
