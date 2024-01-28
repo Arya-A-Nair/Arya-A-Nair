@@ -22,11 +22,11 @@
 </p>
 
 
-## Hello there! I am <a href="https://arya-a-nair.github.io/new-personal-website/" target="_blank">Arya Nair</a>  
+## Hello there! I am <a href="https://www.arya-nair.in/" target="_blank">Arya Nair</a>  
 
 <ul>
   <li>I am a Self-Taught Programmer</li>
-  <li>Check out my <a href="https://arya-a-nair.github.io/new-personal-website/" target="_blank">Personal Website</a></li>
+  <li>Check out my <a href="https://www.arya-nair.in/" target="_blank">Personal Website</a></li>
   <li>I like to work on stuff that genuinely peaks my interest.</li>
   <li>Talk endlessly about stuff I find interesting</li>
   <li>Contact me if you have something interesting to say</li>
