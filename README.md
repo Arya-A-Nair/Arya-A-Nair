@@ -39,6 +39,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   32 hrs 44 mins  ███████████████████████▒░   93.93 %
+CSS          1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **Arya-A-Nair/Arya-A-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
