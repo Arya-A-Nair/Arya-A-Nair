@@ -37,18 +37,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=react)](https://git.io/streak-stats)
 
 </div>
+<table>
+ <tr></tr>
+</table>
+<div style="display: flex; align-items: flex-start;">
+ <span>
+  <img src="https://wakatime.com/share/@barelyexisting/215cae3e-1a84-4c4e-bcd3-cf2fe38c2f73.svg"></img>
+ </span>
+ <span>
+<img src="https://wakatime.com/share/@barelyexisting/e45fd5f0-8bd7-4979-815c-221dc1553262.svg"></img>
+ </span>
+</div>
 
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   32 hrs 44 mins  ███████████████████████▒░   93.93 %
-CSS          1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Python       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-```
-
-<!--END_SECTION:waka-->
 <!--
 **Arya-A-Nair/Arya-A-Nair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
