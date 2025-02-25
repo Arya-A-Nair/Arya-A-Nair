@@ -17,7 +17,7 @@
 
 <p>
  
- ![My Skills](https://skillicons.dev/icons?i=androidstudio,c,cpp,css,django,docker,express,firebase,git,github,heroku,html,js,materialui,mongodb,nodejs,postgres,py,react,redux,ts,flask,appwrite,atom,aws,azure,babel,bash,gcp,graphql,ipfs,jquery,kubernetes,linux,mysql,solidity,svelte,ubuntu,vite)
+ ![My Skills](https://skillicons.dev/icons?i=androidstudio,c,cpp,css,django,docker,express,firebase,git,github,heroku,html,js,materialui,mongodb,nodejs,postgres,py,react,redux,ts,flask,appwrite,atom,aws,azure,babel,bash,gcp,graphql,ipfs,jquery,kubernetes,linux,mysql,solidity,svelte,ubuntu,vite,go)
  
 </p>
 
