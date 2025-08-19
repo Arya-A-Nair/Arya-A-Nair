@@ -21,18 +21,20 @@
  
 </p>
 
+# 👋 Hey, I’m [Arya Nair](https://www.arya-nair.in/)
 
-## Hello there! I am <a href="https://www.arya-nair.in/" target="_blank">Arya Nair</a>  
+💡 I’m a self-taught programmer who loves tinkering, building, and breaking things just to see how they work.  
 
-<ul>
-  <li>I am a Self-Taught Programmer</li>
-  <li>Check out my <a href="https://www.arya-nair.in/" target="_blank">Personal Website</a></li>
-  <li>I like to work on stuff that genuinely peaks my interest.</li>
-  <li>Talk endlessly about stuff I find interesting</li>
-  <li>Contact me if you have something interesting to say</li>
- <li>I want to learn a lot of new things</li>
-</ul>
-<div style="display:flex;flex-direction:row">
+Here’s a little about me:  
+- 🛠️ I work on projects that **spark curiosity** and push me to learn something new.  
+- 🌐 I share some of my experiments and thoughts on my [website](https://www.arya-nair.in/).  
+- 🎯 I enjoy diving deep into conversations about tech, startups, or anything that makes me go *“wait, that’s cool!”*  
+- 🤝 If you’ve got something exciting, weird, or innovative to share — I’m all ears.  
+- 📚 My ultimate goal? **Learn relentlessly, build fearlessly.**  
+
+---
+
+✨ *Currently exploring the intersection of code, creativity, and curiosity.*  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arya-A-Nair&theme=react)](https://git.io/streak-stats)
 
